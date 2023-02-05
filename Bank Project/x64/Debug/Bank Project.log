@@ -1,0 +1,4 @@
+﻿  Bank Project.cpp
+C:\Users\rabua\source\repos\Bank Project\Bank Project\Bank Project.cpp(38,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\rabua\source\repos\Bank Project\Bank Project\Bank Project.cpp(361): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+  Bank Project.vcxproj -> C:\Users\rabua\source\repos\Bank Project\x64\Debug\Bank Project.exe
